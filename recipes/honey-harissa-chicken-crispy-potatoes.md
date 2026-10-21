@@ -27,4 +27,5 @@ Saved from Instagram — post by @valslittlekitchen.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Check harissa paste — many contain cumin; use cumin-free harissa. Rest fits.
+- No eggs / no cumin — swap needed: Check the harissa paste — many contain cumin; use a cumin-free harissa.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Already gluten-free and dairy-free as saved.

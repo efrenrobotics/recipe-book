@@ -27,4 +27,5 @@ Saved from Instagram — post by @mason_woodruff.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Pasta → GF pasta; parmesan → skip.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Pasta → GF pasta; parmesan → skip.

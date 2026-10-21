@@ -24,4 +24,5 @@ Saved from Instagram — post by @avocado_bella.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — not fully visible from the caption. Recipe on Substack; coconut-based, likely fits.
+- No eggs / no cumin — can't confirm from the caption; full recipe not visible.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Can't tell from the caption — full recipe not visible.

@@ -25,5 +25,6 @@ Saved from Instagram — post by @mason_woodruff.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Duplicate of the reel above (different post); same swaps.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Duplicate of the reel above (different post); same swaps.
 - Duplicate save of the same recipe (different post).

@@ -30,4 +30,5 @@ Saved from Instagram — post by @foodeanie.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Butter → oil/DF butter; soy sauce → tamari or coconut aminos.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Butter → oil/DF butter; soy sauce → tamari or coconut aminos.

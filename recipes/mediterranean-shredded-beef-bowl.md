@@ -27,5 +27,5 @@ Saved from Instagram — post by @shredhappens.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Greek yogurt → DF; mayo contains egg → egg-free mayo.
-- Contains egg (via mayo) — use egg-free mayo as noted above.
+- No eggs / no cumin — swap needed: Mayo contains egg → use egg-free mayo.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Greek yogurt (in the sauce) → dairy-free yogurt.

@@ -28,4 +28,5 @@ Saved from Instagram — post by @oneplategirluk.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Spaghetti → GF pasta; parmesan → skip or nutritional yeast.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Spaghetti → GF pasta; parmesan → skip or nutritional yeast.

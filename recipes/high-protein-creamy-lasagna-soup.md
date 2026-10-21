@@ -50,5 +50,6 @@ Saved from Instagram — post by @mason_woodruff.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Lasagna noodles → GF pasta; ricotta + parmesan → DF ricotta-style blend or skip (the bean blend base helps). No egg or cumin.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Lasagna noodles → GF pasta; ricotta + parmesan → DF ricotta-style blend or skip (the bean blend base helps). No egg or cumin.
 - Full ingredient list in caption.

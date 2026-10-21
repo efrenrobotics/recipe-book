@@ -28,5 +28,6 @@ Saved from Instagram — post by @hanpinma.
 
 ## Notes
 
-- Fits Efren's dietary rules (gluten-free, dairy-free, no eggs, no cumin) as saved.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Already gluten-free and dairy-free as saved.
 - Duplicate save of the same recipe (different post).

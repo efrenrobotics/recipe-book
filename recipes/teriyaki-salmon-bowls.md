@@ -28,5 +28,5 @@ Saved from Instagram — post by @becky_bfit.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Teriyaki/soy → GF versions; sriracha mayo contains egg → egg-free mayo + sriracha.
-- Contains egg (via mayo) — use egg-free mayo as noted above.
+- No eggs / no cumin — swap needed: Sriracha mayo contains egg → egg-free mayo + sriracha.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Teriyaki/soy sauce → GF versions (tamari).

@@ -28,4 +28,5 @@ Instagram reel by @platesbylav_, shared with Muse by Efren.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Chipotle crema (dairy) → cashew crema or DF mayo + chipotle.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Chipotle crema (dairy) → cashew crema or DF mayo + chipotle.

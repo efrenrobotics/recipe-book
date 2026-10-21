@@ -35,4 +35,5 @@ Saved from Instagram — post by @_jsproule.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Rigatoni → GF rigatoni; butter → oil or DF butter; double cream → DF cream or coconut cream. No egg or cumin.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Rigatoni → GF rigatoni; butter → oil or DF butter; double cream → DF cream or coconut cream. No egg or cumin.

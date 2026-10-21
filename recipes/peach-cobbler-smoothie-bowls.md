@@ -28,4 +28,5 @@ Saved from Instagram — post by @crateandbarrel.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Greek yogurt → coconut/DF yogurt; check granola is GF.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Greek yogurt → coconut/DF yogurt; check granola is GF.

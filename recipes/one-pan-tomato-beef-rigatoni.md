@@ -27,4 +27,5 @@ Saved from Instagram — post by @thechefoutwest.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Rigatoni → GF pasta. Full ingredient list behind comment-gate.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Rigatoni → GF pasta.

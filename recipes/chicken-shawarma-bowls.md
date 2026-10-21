@@ -27,4 +27,5 @@ Saved from Instagram — post by @eliya.eats.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Spice mix has cumin — omit; yogurt (marinade + toum) → DF yogurt.
+- No eggs / no cumin — swap needed: Spice mix has cumin — omit it.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Yogurt (marinade + toum) → dairy-free yogurt.

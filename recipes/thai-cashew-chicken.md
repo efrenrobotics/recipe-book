@@ -28,4 +28,5 @@ Saved from Instagram — post by @cook.withcourtney.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Soy + oyster + Golden Mountain sauce → tamari + GF oyster sauce.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Soy + oyster + Golden Mountain sauce → tamari + GF oyster sauce.

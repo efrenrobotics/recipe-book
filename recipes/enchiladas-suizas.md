@@ -39,5 +39,6 @@ Saved from Instagram — post by @elcomaldediego.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Cottage cheese + melting cheese + crema → DF alternatives or skip; corn tortillas are GF. No egg or cumin.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Cottage cheese + melting cheese + crema → DF alternatives or skip; corn tortillas are GF. No egg or cumin.
 - Part of the creator’s "21 formas de cocinar con tortillas" series.

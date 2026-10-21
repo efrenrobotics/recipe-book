@@ -27,4 +27,5 @@ Saved from Instagram — post by @mason_woodruff.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Hoisin → GF hoisin. Rest fits.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Hoisin → GF hoisin.

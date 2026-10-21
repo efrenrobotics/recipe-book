@@ -27,4 +27,5 @@ Saved from Instagram — post by @masienda.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Cheese → DF cheese or skip; corn tortillas are GF.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Cheese → DF cheese or skip; corn tortillas are GF.

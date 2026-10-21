@@ -27,4 +27,5 @@ Saved from Instagram — post by @superfoodsguy.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Contains 2 tsp ground cumin — omit it. Rest fits.
+- No eggs / no cumin — swap needed: Contains 2 tsp ground cumin — omit it.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Already gluten-free and dairy-free in the rest of the dish.

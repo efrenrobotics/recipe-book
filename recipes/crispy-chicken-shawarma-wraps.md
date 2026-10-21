@@ -27,4 +27,5 @@ Saved from Instagram — post by @thehealchef.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Marinade has cumin — omit; yoghurt → DF; flatbread → GF wrap or serve as bowl.
+- No eggs / no cumin — swap needed: Marinade has cumin — omit it.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Yogurt → dairy-free yogurt; flatbread → GF wrap or serve as a bowl.

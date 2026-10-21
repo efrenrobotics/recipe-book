@@ -28,4 +28,5 @@ Saved from Instagram — post by @mason_woodruff.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Chicken rub has ½ tsp cumin — omit; cottage + jack cheese → DF.
+- No eggs / no cumin — swap needed: Chicken rub has ½ tsp cumin — omit it.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Cottage + jack cheese → dairy-free alternatives.

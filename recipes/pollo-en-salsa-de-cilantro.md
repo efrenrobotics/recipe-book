@@ -28,4 +28,5 @@ Saved from Instagram — post by @vivaloverde.
 
 ## Notes
 
-- Dietary (gluten-free, dairy-free, no eggs, no cumin) — needs swaps: Greek yogurt in sauce → DF yogurt or avocado; queso panela → skip.
+- No eggs, no cumin — fits Efren as saved.
+- Gluten-free / dairy-free option (what Efren aims for when cooking for his girlfriend; not a restriction for him): Greek yogurt in sauce → DF yogurt or avocado; queso panela → skip.
