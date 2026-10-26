@@ -1,36 +1,50 @@
-# Pantry Inventory
+# Pantry
 
-**Last updated:** October 20, 2026
+Last updated: October 26, 2026
 
 ## Pantry
-
-- Gluten-free old-fashioned rolled oats
+- GF oats
 - Crackers
 - Peanut butter
 - Black beans
 - Tuna
 - Honey
-- Pasta
-- Chia seeds
-- Whole beans (coffee)
-- Potatoes
-- Whey protein powder
+- GF spaghetti (1 box)
+- Kaizen radiatori (2 boxes)
+- Chia
+- Whole coffee beans
+- Sweet potatoes
+- Whey
 - White rice
+- Red wine vinegar
+- Topo Chico
+- Tallow chips
+- That's It fruit bars
 
 ## Fridge
-
-- Hummus (~2 tbsp)
-- Feta (some)
-- Roma tomatoes (3)
+- Feta (about half)
 - Honeycrisp apples (2)
+- Yellow peaches
 - Pickle chips
+- Kirkland almond milk
+- Kirkland organic A2 milk
+- Avocados
+- Limes
+- Organic spinach
+- Green grapes
+- Fruit tray
+- Cocktail tomatoes (about half left)
+- Organic raspberries
+- Prime NY strip steaks
 
 ## Freezer
-
-- Individually packaged edamame
-- Large bag organic sweet potato fries
-- Gluten-free nuggets
-- Individually packaged salmon (4)
-- Frozen mixed berries
-- Boneless chicken breast (defrosting as of Oct 20)
-- Bag of chuck steaks
+- Organic boneless skinless chicken breast (3 bags, about 3-4 servings each)
+- Organic boneless chicken thighs (3 bags, about 3-4 servings each)
+- NY strip, thin cut (3 bags, about 3-4 servings each)
+- Edamame
+- Sweet potato fries
+- GF nuggets
+- Salmon (2)
+- Mixed berries
+- Chuck steaks
+- Organic acai bowls
