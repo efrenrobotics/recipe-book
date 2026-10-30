@@ -1,0 +1,17 @@
+---
+import Layout from "../layouts/Layout.astro";
+import ShoppingList from "../components/ShoppingList";
+---
+
+<Layout title="Your shopping list">
+  <section class="page-pad index-page">
+    <div class="eyebrow blue">FOR THE NEXT GOOD MEAL</div>
+    <div class="page-title">
+      <h1>
+        The list<span class="blue">.</span>
+      </h1>
+    </div>
+    <ShoppingList client:load />
+    <noscript>Enable JavaScript to manage your shopping list.</noscript>
+  </section>
+</Layout>

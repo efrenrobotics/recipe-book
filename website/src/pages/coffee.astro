@@ -1,0 +1,96 @@
+---
+import Layout from "../layouts/Layout.astro";
+import RecipeCard from "../components/RecipeCard.astro";
+import { getRecipe } from "../lib/recipes";
+---
+
+<Layout title="Coffee, a daily practice">
+  <section class="page-pad coffee-page">
+    <div class="eyebrow blue">SMALL ADJUSTMENTS / DAILY RITUALS</div>
+    <div class="page-title">
+      <h1>
+        One more
+        <br />
+        <i>cup.</i>
+      </h1>
+      <p>
+        A kitchen within the kitchen.
+        <br />A few grams. A few seconds.
+        <br />A little better every time.
+      </p>
+    </div>
+    <div class="coffee-feature">
+      <img
+        src="/images/coffee.webp"
+        alt="Iced latte and an espresso cup in afternoon light"
+        width="1200"
+        height="800"
+      />
+      <div class="coffee-lab">
+        <span class="eyebrow">ESPRESSO / STARTING RECIPE</span>
+        <h2>
+          The house
+          <br />
+          <i>espresso.</i>
+        </h2>
+        <div class="coffee-parameters">
+          <div>
+            <span>DOSE</span>
+            <strong>
+              18.0<small> g</small>
+            </strong>
+          </div>
+          <div>
+            <span>YIELD</span>
+            <strong>
+              38.0<small> g</small>
+            </strong>
+          </div>
+          <div>
+            <span>TIME</span>
+            <strong>
+              29<small> sec</small>
+            </strong>
+          </div>
+          <div>
+            <span>TEMPERATURE</span>
+            <strong>
+              93<small> °C</small>
+            </strong>
+          </div>
+        </div>
+        <p>
+          Medium roast. Start here.
+          <br />
+          Let taste tell you what comes next.
+        </p>
+        <a class="text-link" href="/recipes/espresso-house-recipe/">
+          The brew notes ↗
+        </a>
+      </div>
+    </div>
+    <div class="section-heading">
+      <h2>In the notebook.</h2>
+      <span class="eyebrow">RATIOS ARE ONLY THE BEGINNING</span>
+    </div>
+    <div class="coffee-entries">
+      <RecipeCard recipe={getRecipe("vanilla-honey-latte")} />
+      <div class="coffee-note">
+        <span class="eyebrow blue">ROOM FOR THE NEXT EXPERIMENT</span>
+        <h2>
+          V60. Moka pot.
+          <br />A syrup worth
+          <br />
+          <i>making again.</i>
+        </h2>
+        <p>
+          The notebook is open. Add a coffee recipe to the archive and it has a
+          place here.
+        </p>
+        <a class="text-link" href="/collections/coffee/">
+          All coffee recipes ↗
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

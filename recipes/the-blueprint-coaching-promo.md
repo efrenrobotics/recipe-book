@@ -1,5 +1,5 @@
 ---
-title: "The Blueprint" (coaching promo)
+title: '"The Blueprint" (coaching promo)'
 source: instagram
 source_url: https://www.instagram.com/p/DaHuujdG0wF/
 creator: bencrerar

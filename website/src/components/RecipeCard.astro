@@ -1,0 +1,40 @@
+---
+import type { Recipe } from "../lib/recipes";
+const { recipe: r, large = false } = Astro.props as {
+  recipe: Recipe;
+  large?: boolean;
+};
+---
+
+<a class:list={["recipe-card", { large }]} href={`/recipes/${r.slug}/`}>
+  {r.image ? (
+    <div class="image-wrap">
+      <img
+        src={r.image}
+        alt={r.title}
+        width="900"
+        height="700"
+        loading="lazy"
+      />
+      <span class="image-arrow">↗</span>
+    </div>
+  ) : (
+    <div class="type-card">
+      <span>FROM THE RECIPE BOOK</span>
+      <span class="type-card-title">{r.title}</span>
+      <span class="type-card-no">{r.number}</span>
+    </div>
+  )}
+  <div class="card-meta">
+    <span>RECIPE {r.number}</span>
+    <span>
+      {r.complete && r.timeKnown
+        ? `${r.prepTime + r.cookTime} MIN`
+        : r.complete
+          ? "TIME NOT RECORDED"
+          : "SOURCE NOTE"}
+    </span>
+  </div>
+  <h3>{r.title}</h3>
+  <p>{r.tags.slice(0, 2).join(" / ").replaceAll("-", " ")}</p>
+</a>
