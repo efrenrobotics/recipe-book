@@ -19,3 +19,15 @@ See **`AGENTS.md`** for detailed conventions that agents should follow when addi
 
 - `recipes/chicken-tinga.md` — Mexican shredded chicken in chipotle-tomato sauce
 - `recipes/sopa-de-lentejas.md` — Hearty lentil soup
+
+## Personal cookbook website
+
+The Astro + React + TypeScript website lives in [`website/`](website/README.md). Run it with Node 24:
+
+```sh
+cd website
+npm install
+npm run dev
+```
+
+The website reads these Markdown recipes at build time. See its README for optional editorial fields, cooking tools, and private hosting details.

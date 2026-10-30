@@ -1,0 +1,33 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { chapters, recipes } from "../../lib/recipes";
+---
+
+<Layout title="Chapters of a cookbook">
+  <section class="page-pad collections-page">
+    <div class="eyebrow blue">NOT CATEGORIES. OCCASIONS.</div>
+    <div class="page-title">
+      <h1>
+        Collections<span class="blue">.</span>
+      </h1>
+      <p>
+        A few ways
+        <br />
+        to bring things together.
+      </p>
+    </div>
+    <div class="chapter-list">
+      {chapters.map((ch) => (
+        <a href={`/collections/${ch.slug}/`}>
+          <span class="eyebrow">CHAPTER {ch.number}</span>
+          <h2>{ch.title}</h2>
+          <p>{ch.description}</p>
+          <span class="chapter-count">
+            {recipes.filter((r) => r.collections.includes(ch.slug)).length}{" "}
+            RECIPES <b>↗</b>
+          </span>
+        </a>
+      ))}
+    </div>
+  </section>
+</Layout>

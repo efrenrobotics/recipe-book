@@ -1,0 +1,35 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import RecipeIndex from "../../components/RecipeIndex";
+import { recipes } from "../../lib/recipes";
+---
+
+<Layout title="The recipe index">
+  <section class="page-pad index-page">
+    <div class="page-title-meta eyebrow">
+      <span>THE COMPLETE COLLECTION</span>
+      <span>{recipes.length} ENTRIES / ALWAYS GROWING</span>
+    </div>
+    <div class="page-title">
+      <h1>
+        Index<span class="blue">.</span>
+      </h1>
+      <p>
+        Something familiar.
+        <br />
+        Something you haven’t tried yet.
+      </p>
+    </div>
+    <RecipeIndex client:load recipes={recipes} />
+    <noscript>
+      <p>
+        Browse the full archive below. Enable JavaScript for search and filters.
+      </p>
+      {recipes.map((r) => (
+        <p>
+          <a href={`/recipes/${r.slug}/`}>{r.title}</a>
+        </p>
+      ))}
+    </noscript>
+  </section>
+</Layout>

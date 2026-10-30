@@ -1,0 +1,132 @@
+---
+import Layout from "../layouts/Layout.astro";
+import RecipeCard from "../components/RecipeCard.astro";
+import { getRecipe } from "../lib/recipes";
+const feature = getRecipe("picanha-chimichurri");
+---
+
+<Layout title="Recipes, experiments, and things worth making again">
+  <section class="masthead page-pad">
+    <div class="eyebrow masthead-top">
+      <span>A PERSONAL COOKBOOK BY EFREN MENDOZA</span>
+      <span>AUSTIN, TEXAS · VOL. 01</span>
+    </div>
+    <h1>
+      EFREN’S{" "}
+      <span>
+        KITCHEN
+      </span>
+    </h1>
+    <div class="masthead-bottom">
+      <p>
+        Recipes, experiments,
+        <br />
+        and things worth making again.
+      </p>
+      <div class="masthead-caption">
+        <span>
+          COLLECTED WITH CARE.
+          <br />
+          MADE TO BE SHARED.
+        </span>
+        <span class="down-arrow">↓</span>
+      </div>
+    </div>
+  </section>
+  <section class="feature page-pad">
+    <div class="feature-copy">
+      <div class="eyebrow">
+        <span class="blue">ON THE TABLE</span>
+        <span>RECIPE {feature.number}</span>
+      </div>
+      <div class="feature-title">
+        <span class="feature-number">01</span>
+        <h2>
+          Picaña <i>&</i>
+          <br />
+          chimichurri.
+        </h2>
+      </div>
+      <p>
+        A good fire. A generous pinch of salt.
+        <br />
+        Something green on the side.
+        <br />
+        Sometimes, that’s all you need.
+      </p>
+      <div class="feature-meta">
+        CHARCOAL GRILL <span> / </span> SERVES 8
+      </div>
+      <a class="text-link" href="/recipes/picanha-chimichurri/">
+        Make this recipe <span>↗</span>
+      </a>
+    </div>
+    <a
+      class="feature-image"
+      href="/recipes/picanha-chimichurri/"
+      aria-label="View picaña and chimichurri recipe"
+    >
+      <img
+        src="/images/picanha.webp"
+        alt="Sliced grilled picaña on a wooden board with fresh chimichurri and charred lemon"
+        width="1536"
+        height="1024"
+        fetchpriority="high"
+      />
+      <span class="photo-caption">A LITTLE CHAR GOES A LONG WAY.</span>
+    </a>
+  </section>
+  <section class="recent-section page-pad">
+    <div class="section-heading">
+      <div>
+        <span class="eyebrow blue">A FEW THINGS TO MAKE</span>
+        <h2>From the kitchen.</h2>
+      </div>
+      <a class="text-link" href="/recipes/">
+        The complete index <span>↗</span>
+      </a>
+    </div>
+    <div class="editorial-grid">
+      <RecipeCard recipe={getRecipe("papas-nortenas")} large />
+      <RecipeCard recipe={getRecipe("chicken-tinga")} />
+      <RecipeCard recipe={getRecipe("vanilla-honey-latte")} />
+    </div>
+  </section>
+  <section class="chapter-feature page-pad">
+    <div class="eyebrow">CHAPTER 01 / AROUND THE FIRE</div>
+    <a href="/collections/asado/" class="chapter-link">
+      <h2>
+        ASADO<span>↗</span>
+      </h2>
+    </a>
+    <div class="chapter-bottom">
+      <p>
+        Fire, meat, cold drinks,
+        <br />
+        and enough food for everyone.
+      </p>
+      <span>
+        THE GOOD KIND OF
+        <br />
+        LONG AFTERNOON.
+      </span>
+      <a href="/menus/" class="text-link">
+        Plan the whole table <span>↗</span>
+      </a>
+    </div>
+  </section>
+  <section class="notes-section page-pad">
+    <span class="eyebrow blue">A NOTE FROM THE KITCHEN</span>
+    <blockquote>
+      “A recipe is a starting point.
+      <br />
+      The second time, <i>make it yours.</i>”
+    </blockquote>
+    <div>
+      <span class="note-signature">Efren.</span>
+      <a class="text-link" href="/about/">
+        About this collection <span>↗</span>
+      </a>
+    </div>
+  </section>
+</Layout>
