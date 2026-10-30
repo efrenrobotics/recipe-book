@@ -1,6 +1,6 @@
 # Pantry
 
-Last updated: October 26, 2026
+Last updated: October 29, 2026
 
 ## Pantry
 - GF oats
@@ -20,6 +20,7 @@ Last updated: October 26, 2026
 - Topo Chico
 - Tallow chips
 - That's It fruit bars
+- Mixta tortillas
 
 ## Fridge
 - Feta (about half)
@@ -33,12 +34,11 @@ Last updated: October 26, 2026
 - Organic spinach
 - Green grapes
 - Fruit tray
-- Cocktail tomatoes (about half left)
 - Organic raspberries
-- Prime NY strip steaks
+- Organic boneless skinless chicken breast (1 bag, thawed)
 
 ## Freezer
-- Organic boneless skinless chicken breast (3 bags, about 3-4 servings each)
+- Organic boneless skinless chicken breast (2 bags, about 3-4 servings each)
 - Organic boneless chicken thighs (3 bags, about 3-4 servings each)
 - NY strip, thin cut (3 bags, about 3-4 servings each)
 - Edamame
