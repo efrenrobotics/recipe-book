@@ -1,50 +1,47 @@
 # Pantry
 
-Last updated: October 29, 2026
+Last updated: November 8, 2026
 
 ## Pantry
 - GF oats
 - Crackers
 - Peanut butter
 - Black beans
-- Tuna
 - Honey
-- GF spaghetti (1 box)
-- Kaizen radiatori (2 boxes)
 - Chia
 - Whole coffee beans
 - Sweet potatoes
 - Whey
 - White rice
 - Red wine vinegar
+- Rice vinegar
+- GF soy sauce
+- GF spaghetti
+- Kaizen radiatori
 - Topo Chico
-- Tallow chips
 - That's It fruit bars
-- Mixta tortillas
+- La Costeña chipotle in adobo (1 can)
 
 ## Fridge
-- Feta (about half)
-- Honeycrisp apples (2)
-- Yellow peaches
-- Pickle chips
-- Kirkland almond milk
-- Kirkland organic A2 milk
-- Avocados
+- Hummus
+- Roma tomato (1)
+- Honeycrisp apple (1)
+- Feta
 - Limes
 - Organic spinach
 - Green grapes
-- Fruit tray
-- Organic raspberries
-- Organic boneless skinless chicken breast (1 bag, thawed)
+- Pickle chips
+- Kirkland almond milk
+- Kirkland organic A2 milk
+- Chicken thighs (1 bag, thawed) — cook by Nov 9
 
 ## Freezer
-- Organic boneless skinless chicken breast (2 bags, about 3-4 servings each)
-- Organic boneless chicken thighs (3 bags, about 3-4 servings each)
-- NY strip, thin cut (3 bags, about 3-4 servings each)
+- Organic boneless chicken thighs (1 bag)
+- Organic boneless skinless chicken breast (2 bags)
+- NY strip, thin cut (~3 bags)
+- Salmon (2)
 - Edamame
 - Sweet potato fries
 - GF nuggets
-- Salmon (2)
 - Mixed berries
-- Chuck steaks
 - Organic acai bowls
